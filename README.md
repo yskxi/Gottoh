@@ -1,2 +1,2 @@
-# gottoh
+# Gottoh
 Pinky and comfy colorscheme~
